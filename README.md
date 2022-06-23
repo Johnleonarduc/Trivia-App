@@ -22,7 +22,7 @@ This application is built with Python, Flask, SqlAlchemy, and Postgress for Back
 
 This app can be run locally for now. To run the app locally, you must first setup the backend requirements and start the server, then install the frontend requirements and start its server likewise.
 
-### Backend Setup Steps - Trivia API
+## Backend Setup Steps - Trivia API
 
 1. **Python 3.7** - Follow instructions to install the latest version of python for the app in the [python docs](https://docs.python.org/3/using/unix.html#getting-and-installing-the-latest-version-of-python)
 
@@ -89,9 +89,9 @@ flask run --reload
 
 The `--reload` flag will detect file changes and restart the server automatically.
 
-# Setting Up The Frontend
+## Setting Up The Frontend
 
-## Intall Dependences:
+### Intall Dependences:
 1. **Installing Node and NPM**
    This project depends on Nodejs and Node Package Manager (NPM). Before continuing, you must download and install Node (the download includes NPM) from [https://nodejs.com/en/download](https://nodejs.org/en/download/).
 
